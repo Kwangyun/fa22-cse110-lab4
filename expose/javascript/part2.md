@@ -35,5 +35,5 @@ F: true With boolean conversion rules, only 0 is false. Thus, Boolean(2) will co
 === operator is called strict equality operator which checks value and type equality and == checks for value equality<br/>
 16. Answer in directory.<br/>
 17. return [2, 4, 6].  This is because we conduct doSomething on each element of the first element. 1 becomes 2 pushing 2 to the newArr. Continuing this process 2 now becomes 4 and we  pushe 4. 3 becomes 6 and we push 6. <br/>
-19. Answer in the directory.<br/>
+18. Answer in the directory.<br/>
 19. The output is 1 4 3 2 <br/>
